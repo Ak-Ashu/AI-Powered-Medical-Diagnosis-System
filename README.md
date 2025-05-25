@@ -24,10 +24,7 @@ The Disease Prediction System is a web-based application that uses machine learn
 Follow these steps to set up the project:
 
 1. **Clone the Repository:**
-   ```bash
   https://github.com/Ak-Ashu/AI-Powered-Medical-Diagnosis-System
-   
-   ```
 
 2. **Create a Virtual Environment:** _(Optional but recommended)_
    ```bash
